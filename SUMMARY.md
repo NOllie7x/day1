@@ -4,3 +4,4 @@
 * [从夜之城到现实生活\_自主性反馈与新的出发](cong-ye-zhi-cheng-dao-xian-shi-sheng-huo-zi-zhu-xing-fan-kui-yu-xin-de-chu-fa.md)
 * [2026 11 14](2026-11-14.md)
 * [2026 11 15](2026-11-15.md)
+* [chovy是怎么同意的](chovy-shi-zen-me-tong-yi-de.md)
